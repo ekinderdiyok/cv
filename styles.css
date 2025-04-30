@@ -46,6 +46,7 @@ body, html {
     list-style: none;
     padding: 0;
     width: 100%;
+    margin-top: 6px;
 }
 
 .section ul li {
